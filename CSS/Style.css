@@ -1,0 +1,311 @@
+h1
+{
+    color:whitesmoke;
+    font-family: tahoma;
+}
+
+body
+{
+    background-color:burlywood;
+}
+
+a
+{
+    text-decoration:wavy ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    color:black;
+    padding-right: 70px;
+}
+
+.header
+{
+    width: 100%;
+    background-color: chocolate;
+    float:left;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    font-size: 12px;
+}
+
+.slider
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.slider img 
+{
+    width: 400px;
+    height: auto;
+}
+
+.education
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.box1
+{
+    width: 24.7%;
+    background-color: blueviolet;
+    float: left;
+    height: 400px;
+    border: 2px solid; 
+    align-items: center;
+    text-align: center;
+    
+}
+.box1 img
+{
+    width: 375px;
+    height: 280px;
+    align-content: center;
+    align-items: center;
+}
+.box2
+{
+    width: 24.7%;
+    background-color: orangered;
+    height: 400px;
+    float: left;
+    border: 2px solid;
+    text-align: center;
+}
+.box2 img
+{
+    width: 375px;
+    height: 280px;
+    align-content: center;
+    align-items: center;
+}
+
+.box3
+{
+    width: 24.7%;
+    background-color: yellowgreen;
+    height: 400px;
+    float: left;
+    border: 2px solid;
+    text-align: center;
+}
+.box3 img
+{
+    width: 375px;
+    height: 280px;
+    align-content: center;
+    align-items: center;
+}
+
+.box4
+{
+    width: 24.7%;
+    background-color: red;
+    height: 400px;
+    float: left;
+    border: 2px solid;
+    text-align: center;
+}
+.box4 img
+{
+    width: 375px;
+    height: 280px;
+    align-content: center;
+    align-items: center;
+}
+
+.content 
+{
+    text-align: center;
+}
+
+.content p
+{
+    font-size: 20px;
+    font-style:normal;
+}
+.p
+{
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap" rel="stylesheet">
+}
+
+
+table, tr, td, th
+{
+    border: 2px solid black;
+    border-collapse:collapse;
+    text-align: center;
+}
+
+.table1
+{
+    width: 1500px;
+    margin-top: 25px;
+
+}
+
+th
+{
+    background-color:brown ;
+    color: black;
+}
+
+td
+{
+    padding:5px;
+}
+
+tr
+{
+    background-color:cornsilk;
+}
+
+tr:nth-child(odd)
+{
+    background-color:khaki;
+}
+
+tr:hover
+{
+  background-color: chocolate;  
+}
+
+.slider2 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.slider2 img 
+{
+    width: 300px;
+    height: auto;
+}
+
+table 
+{
+    border-collapse: collapse;
+    width: 100%;
+    height: 30vh;
+    margin-top: 20px
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.education-box 
+{
+    border: 1px ;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.education-box img 
+{
+    width: 100px;
+    height: 100px;
+}
+
+.map
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+
+.social-icons 
+{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-icons li 
+{
+    margin-right: 10px;
+}
+
+.social-icons img 
+{
+    width: 50px;
+    height: 50px;
+}
+
+.slider3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.slider3 img 
+{
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+.slider4
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.slider4 img 
+{
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+.slider5
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.slider5 img 
+{
+    width: 400px;
+    height: auto;
+    float: left;
+}
+
+h1 
+{
+    font-size: 24px;
+    text-align: center;
+}
+
+.table2
+{
+    border-collapse: collapse;
+    width: 500px;
+    height: 50vh;
+    margin-top: 30px;
+    align-items: center;
+    justify-content: center;
+}
